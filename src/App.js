@@ -1,5 +1,9 @@
 import './App.css';
+<<<<<<< HEAD
 import AutoReview from './components/autoReview'
+=======
+import BiologyToday from './components/biologyToday'
+>>>>>>> biologyToday
 
 function App() {
   return (
@@ -10,7 +14,11 @@ function App() {
           My really cool blog site
         </p>
       </header>
+<<<<<<< HEAD
       <AutoReview/>
+=======
+      <BiologyToday/>
+>>>>>>> biologyToday
     </div>
   );
 }
